@@ -7,7 +7,6 @@ use Exception;
 
 /**
  * Logs user's activity (login, profile edit, actions with points, etc.)
- * testt
  */
 class ActivityLogger
 {
